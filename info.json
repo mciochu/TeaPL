@@ -1,0 +1,13 @@
+{
+      "key": "pl_gt",
+      "country_code": "pl",
+      "path": "pl_translate.translation",
+
+      "name": "Polish translation",
+      "contributors": [
+        {
+          "name": "Mcioche",
+          "email": "Mciochu"
+        }
+      ]
+    }
